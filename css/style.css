@@ -1,0 +1,147 @@
+html{
+    font-size: 18px;
+}
+body{
+ font-family: Arial, Helvetica, sans-serif;
+    background-color:#000 ;
+}
+
+.container{
+width: 75%;
+margin: 0  175px ;
+text-align: center;
+
+}
+
+
+/*start section */
+section{
+    background-color:#cccccc;
+
+}
+ 
+/* start navbar*/
+
+  
+.newheader{
+  background-image: url("../images/bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 127px;
+  } 
+
+.mbinz-bg{
+  display: block;
+}
+
+
+.social-media{
+    display: inline-block;
+    width: 22%;
+    float: right;
+}
+
+
+
+.menusec{
+    background-color: black;
+}
+
+
+
+/*  start navbar links */
+
+ul {
+
+    border-top: thin solid #999999;
+    overflow: hidden;
+    display: inline-block;
+    width: 73%;
+    margin-right: 22%;
+   
+  }
+ ul a {
+   
+    float: left;
+    color: #f2f2f2;
+    padding: 6px 13px;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 13px;
+}
+
+ ul a:hover {
+  background-color: rgb(94, 122, 248);
+  color: rgb(255, 255, 255);
+}
+
+/*  end navbar links */
+
+
+/* End navbar*/
+
+
+
+.im{
+    
+    margin-top: 10px;
+    
+}
+ .parent{ 
+    
+     padding:0 10px;
+
+ }
+
+.parent .div1{
+padding: 0 6px; 
+
+}
+
+
+.imgs{
+
+    display: block;
+    text-align: center;
+    margin: 6% 0;
+}
+
+.imgs img{
+
+    padding: 5px;
+    box-shadow:0px 5px 5px 5px  rgb(160, 159, 159);
+    display: inline-block;
+    margin: 15px;
+
+
+}
+
+
+
+/* start frame*/
+  
+ h2{
+    color: rgb(100, 149, 237);
+    border-bottom:thin solid #999999; 
+    text-align: left;
+}
+
+ 
+p{
+ text-align: justify;
+font-size: 14px;
+color: grey;
+padding: 10px;
+
+}
+/*  end frame*/
+ 
+/* start footer*/
+
+footer p {
+    border-top: thin solid #999999;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+}
+/* end  footer*/
